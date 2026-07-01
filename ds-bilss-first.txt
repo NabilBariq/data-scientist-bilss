@@ -1,2 +1,4 @@
 1. belajar github
 2. belajar sains data dan mendokumentasikan dalam github
+3. ikut lomba, kaggle, dan bootcamp
+4. KONSISTEN
